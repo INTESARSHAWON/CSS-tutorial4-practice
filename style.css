@@ -15,3 +15,9 @@ div{
         background-color: pink;
     }
 }
+
+@media (min-width: 400px) and (max-width: 600px){
+    div{
+        background-color: red;
+    }
+}
